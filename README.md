@@ -1,16 +1,25 @@
-## Hi there 👋
+# Cześć, jestem Dawid! 👋
 
-<!--
-**Dawe1600/Dawe1600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jestem pasjonatem technologii, automatyzacji i szeroko pojętego IT. Skupiam się na tworzeniu czystego, efektywnego kodu oraz optymalizacji codziennych procesów.
 
-Here are some ideas to get you started:
+### 🛠️ Moje umiejętności i technologie
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Języki i Frameworki:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+- **Narzędzia i Automatyzacja:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) Low-Code Solutions
+- **Systemy i Sieci:** Administracja Linux/Windows, Cyberbezpieczeństwo
+
+### 🚀 Czym się zajmuję?
+
+- 🔭 Rozwijam projekty automatyzujące zadania systemowe i biurowe.
+- 🌱 Stale poszerzam wiedzę z zakresu administracji sieciowej, cyberbezpieczeństwa oraz nowoczesnych rozwiązań developerskich.
+- 💬 Chętnie dzielę się wiedzą i optymalizuję istniejące rozwiązania technologiczne.
+
+### 📊 Moje statystyki GitHub
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Dawe1600&show_icons=true&theme=dark" alt="Dawid GitHub Stats" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawe1600&layout=compact&theme=dark" alt="Top Langs" height="180px"/>
+</p>
+
+---
+📫 **Gdzie mnie znaleźć:** https://dawidbraun.netlify.app/
