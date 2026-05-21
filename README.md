@@ -16,10 +16,8 @@ Jestem pasjonatem technologii, automatyzacji i szeroko pojętego IT. Skupiam si�
 
 ### 📊 Moje statystyki GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dawe1600&show_icons=true&theme=tokyonight&count_private=true" alt="Dawid GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawe1600&layout=compact&theme=tokyonight" alt="Top Langs" height="180px"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dawe1600&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
 ---
 📫 **Gdzie mnie znaleźć:** https://dawidbraun.netlify.app/
