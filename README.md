@@ -4,7 +4,7 @@ Jestem pasjonatem technologii, automatyzacji i szeroko pojętego IT. Skupiam si�
 
 ### 🛠️ Moje umiejętności i technologie
 
-- **Języki i Frameworki:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+- **Języki:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 - **Narzędzia i Automatyzacja:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) Low-Code Solutions
 - **Systemy i Sieci:** Administracja Linux/Windows, Cyberbezpieczeństwo
 
