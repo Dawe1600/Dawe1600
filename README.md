@@ -37,6 +37,7 @@ Projektuję i wdrażam automatyzacje procesów, lekkie narzędzia desktopowe ora
 
 ### 🚀 Wybrane Projekty
 
+* **[Zimne Akta](https://zimneakta.pl)**: platforma e-commerce i gier śledczych print&play oparta o asynchroniczny backend FastAPI + PostgreSQL 16, integrację ze Stripe, automatyzacje w n8n oraz wdrożenie w kontenerach Docker na Linux VPS (700+ zalogowanych użytkowników podczas premiery).
 * **[obsidian-ai-starter](https://github.com/Dawe1600/obsidian-ai-starter)**: gotowy szablon Second Brain łączący Obsidian z agentami AI, strukturą folderów oraz automatyzacją codziennych notatek i zadań.
 * **[Squash-AI-Coach](https://github.com/Dawe1600/Squash-AI-Coach)**: system analizy wideo i taktyki gry w squasha w czasie rzeczywistym oparty o Computer Vision.
 * **[Lista_Zadan](https://github.com/Dawe1600/Lista_Zadan)**: minimalistyczny, przezroczysty widget To-Do na pulpit Windows (PyQt5) z wbudowanym asystentem Google Gemini.
