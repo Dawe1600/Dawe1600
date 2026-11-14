@@ -33,7 +33,6 @@ Projektuję i wdrażam automatyzacje procesów, lekkie narzędzia desktopowe ora
 * **[obsidian-ai-starter](https://github.com/Dawe1600/obsidian-ai-starter)**: gotowy szablon Second Brain łączący Obsidian z agentami AI, strukturą folderów oraz automatyzacją codziennych notatek i zadań.
 * **[Squash-AI-Coach](https://github.com/Dawe1600/Squash-AI-Coach)**: system analizy wideo i taktyki gry w squasha w czasie rzeczywistym oparty o Computer Vision.
 * **[Lista_Zadan](https://github.com/Dawe1600/Lista_Zadan)**: minimalistyczny, przezroczysty widget To-Do na pulpit Windows (PyQt5) z wbudowanym asystentem Google Gemini.
-* **[Power-Apps-Canvas-YAML-Parser](https://github.com/Dawe1600/Power-Apps-Canvas-YAML-Parser)**: statyczny walidator i parser kodu YAML (PaYaml Schema v3.0) oraz formuł Power Fx dla Power Apps.
 * **[NIIMBOT-B3S-Label-generator](https://github.com/Dawe1600/NIIMBOT-B3S-Label-generator)** & **[Smart-IT-Asset-Manager](https://github.com/Dawe1600/Smart-IT-Asset-Manager)**: zestaw narzędzi IT do ewidencji sprzętu wspieranej przez AI/OCR oraz druku etykiet inwentaryzacyjnych na drukarkach NIIMBOT B3S.
 
 ---
