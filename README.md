@@ -48,4 +48,4 @@ Projektuję i wdrażam automatyzacje procesów, lekkie narzędzia desktopowe ora
 ### 📫 Kontakt i Linki
 
 * 🌐 **Portfolio:** [dawidbraun.netlify.app](https://dawidbraun.netlify.app/)
-* 💼 **LinkedIn:** [linkedin.com/in/dawid-braun-17377938a](https://www.linkedin.com/in/dawid-braun-17377938a/)
+* 💼 **LinkedIn:** [linkedin.com/in/dawid-braun](https://www.linkedin.com/in/dawid-braun/)
