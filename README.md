@@ -1,6 +1,6 @@
 # Cześć, jestem Dawid 👋
 
-**Specjalista ds. IT i Automatyzacji** | Student Informatyki (spec. Sztuczna Inteligencja) | Współtwórca [zimneakta.pl](https://zimneakta.pl/)
+**Specjalista ds. IT i Automatyzacji** | Student Informatyki (spec. Sztuczna Inteligencja)
 
 Projektuję i wdrażam automatyzacje procesów, lekkie narzędzia desktopowe oraz backendy webowe oparte o Pythona i modele AI. Stawiam na praktyczne rozwiązania, które realnie oszczędzają czas w pracy operacyjnej i biznesie.
 
