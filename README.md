@@ -1,6 +1,14 @@
-# Cześć, jestem Dawid 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E7A,100:009688&height=180&section=header&text=Dawid%20Braun&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20%26%20Automatyzacja%20%7C%20Python%20%26%20AI&descAlignY=58&descSize=17" width="100%" />
+</div>
 
-**Specjalista ds. IT i Automatyzacji** | Student Informatyki (spec. Sztuczna Inteligencja)
+<div align="center">
+  <a href="https://dawidbraun.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=2DD4BF&center=true&vCenter=true&width=620&lines=Specjalista+ds.+IT+i+Automatyzacji;Python+%26+FastAPI+%7C+Docker+%7C+PostgreSQL;Agenci+AI+%7C+n8n+%7C+Power+Platform;Student+Informatyki+(spec.+AI)" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
 
 Projektuję i wdrażam automatyzacje procesów, lekkie narzędzia desktopowe oraz backendy webowe oparte o Pythona i modele AI. Stawiam na praktyczne rozwiązania, które realnie oszczędzają czas w pracy operacyjnej i biznesie.
 
@@ -29,10 +37,10 @@ Projektuję i wdrażam automatyzacje procesów, lekkie narzędzia desktopowe ora
 
 ### 🚀 Wybrane Projekty
 
-* **[Zimne Akta](https://zimneakta.pl/)** *(projekt prywatny / produkcja)*: asynchroniczny backend dla platformy gier śledczych (FastAPI, PostgreSQL 16, SQLAlchemy 2.0, Docker, integracja Stripe i automatyzacje mailingowe), stabilnie obsługujący piki 700+ użytkowników.
 * **[obsidian-ai-starter](https://github.com/Dawe1600/obsidian-ai-starter)**: gotowy szablon Second Brain łączący Obsidian z agentami AI, strukturą folderów oraz automatyzacją codziennych notatek i zadań.
 * **[Squash-AI-Coach](https://github.com/Dawe1600/Squash-AI-Coach)**: system analizy wideo i taktyki gry w squasha w czasie rzeczywistym oparty o Computer Vision.
 * **[Lista_Zadan](https://github.com/Dawe1600/Lista_Zadan)**: minimalistyczny, przezroczysty widget To-Do na pulpit Windows (PyQt5) z wbudowanym asystentem Google Gemini.
+* **[Power-Apps-Canvas-YAML-Parser](https://github.com/Dawe1600/Power-Apps-Canvas-YAML-Parser)**: statyczny walidator i parser kodu YAML (PaYaml Schema v3.0) oraz formuł Power Fx dla Power Apps.
 * **[NIIMBOT-B3S-Label-generator](https://github.com/Dawe1600/NIIMBOT-B3S-Label-generator)** & **[Smart-IT-Asset-Manager](https://github.com/Dawe1600/Smart-IT-Asset-Manager)**: zestaw narzędzi IT do ewidencji sprzętu wspieranej przez AI/OCR oraz druku etykiet inwentaryzacyjnych na drukarkach NIIMBOT B3S.
 
 ---
@@ -41,4 +49,3 @@ Projektuję i wdrażam automatyzacje procesów, lekkie narzędzia desktopowe ora
 
 * 🌐 **Portfolio:** [dawidbraun.netlify.app](https://dawidbraun.netlify.app/)
 * 💼 **LinkedIn:** [linkedin.com/in/dawid-braun-17377938a](https://www.linkedin.com/in/dawid-braun-17377938a/)
-* 🔍 **Projekt:** [zimneakta.pl](https://zimneakta.pl/)
