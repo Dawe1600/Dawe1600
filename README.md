@@ -20,7 +20,7 @@ Projektuję i wdrażam automatyzacje procesów, lekkie narzędzia desktopowe ora
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![AI & LLMs](https://img.shields.io/badge/AI_%26_LLMs-6366F1?style=flat-square&logo=robotframework&logoColor=white)
 
 **Automatyzacja & Low-Code**
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
